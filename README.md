@@ -71,12 +71,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ghorbani-ali&theme=tokyonight" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghorbani-ali&show_icons=true&theme=tokyonight" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghorbani-ali&layout=donut&theme=tokyonight" height="200" alt="languages graph"  />
 </div>
